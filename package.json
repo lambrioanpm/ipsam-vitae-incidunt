@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@lambrioanpm/ipsam-vitae-incidunt",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/lambrioanpm/ipsam-vitae-incidunt.git"
   },
   "dependencies": {
+    "@crabas0npm/accusamus-laudantium-veniam-veniam": "^1.0.0",
+    "@lambrioanpm/fuga-pariatur-nostrum": "^1.0.0",
+    "@wemnyelezxnpm/tempora-accusantium-quis-animi": "^1.0.0"
   }
 }
